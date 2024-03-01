@@ -9,6 +9,10 @@
 - #### interrupt concepts
 - #### stack
 
+## Problem Statement
+
+![](assignment_3_problem_statement.jpg)
+
 ### Was not quite familiar with the subroutine concepts at the early stage so I made a python script to ease the hardcoding process 😅 
 
 ![](python_file.jpg)
